@@ -1,0 +1,15 @@
+body {
+  background-color: #f0134d;
+  color: white;
+  text-align: center;
+  padding: 300px 100px 0 100px;
+}
+
+h1 {
+  font-family: 'Fira Code';
+}
+
+h3 {
+  font-family: 'Roboto';
+  font-weight: 100;
+}
